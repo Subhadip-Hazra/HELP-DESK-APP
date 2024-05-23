@@ -1,7 +1,7 @@
 <h1 align="center">Help Desk App</h1>
 
 <p align="center">
-  <img src="https://postimg.cc/yWp8sBfm" alt="Help Desk App Logo" width="200">
+  <img src="https://i.postimg.cc/MKqM0pVF/logo.png" alt="Help Desk App Logo" width="200">
 </p>
 
 <p align="center">
@@ -59,7 +59,7 @@ npm run dev
 Visit `http://localhost:3000` in your browser to view the application.
 
 ## Admin Access
-To request admin access, visit [Admin Access Request](https://help-desk-app-i.netlify.app/admin) and follow the instructions provided.
+To request admin access, login or sign up first and send [Admin Access Request](https://help-desk-app-i.netlify.app/admin) from here.
 
 ## Contributing
 Contributions are welcome! Please refer to the [Contribution Guidelines](CONTRIBUTING.md) for more information.
